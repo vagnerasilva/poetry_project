@@ -9,7 +9,7 @@ poetry new flask_app_delivery
 # Step2 iniciar o virtual env 
 poetry shell
 
-# Step3 
+# Step3 configurando o ambiente virtual localmente
 poetry config virtualenvs.in-project true
 
 # Step4 adicionando libs
