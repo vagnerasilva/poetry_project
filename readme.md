@@ -1,7 +1,7 @@
-## utilizando poetry para o projeto
+## Utilizando poetry para o projeto
 
 
-## ferramenta para gerenciamento de dependencias no python
+## Ferramenta para gerenciamento de dependencias no python
 
 # Step1 inciar o projeto
 poetry new flask_app_delivery
